@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/325-typescript-session-client",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/325-typescript-session-client": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/325-typescript-session-client",
+    "origin"
+  ]
+}
